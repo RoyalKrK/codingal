@@ -5,3 +5,4 @@ git add file name -
 git commit -m "message"
 Krithik.git
 push file to remote repository
+remote changes
